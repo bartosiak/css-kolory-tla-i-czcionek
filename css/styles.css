@@ -1,0 +1,38 @@
+body {
+    background-color: rgb(227, 171, 102);
+    font-size: 2rem;
+}
+h1 {
+    background-color: rgb(241, 236, 255);
+    color: rgb(195, 171, 255);
+}
+h2 {
+    background-color: rgb(255, 255, 0);
+    color: rrgb(255, 0, 0);
+}
+.paragraf-1 {
+    background-color: rgb(0, 204, 153);
+    color: rgb(0, 0, 255);
+}
+.paragraf-2 {
+    background-color: rgb(176, 227, 202);
+    color: rgb(58, 42, 100);
+}
+ol {
+    background-color: rgb(230, 194, 245);
+}
+.item-1 {
+    color: rgb(255, 107, 150);
+}
+.item-2 {
+    color: rgb(255, 70, 107);
+}
+.item-3 {
+    color: rgb(26, 188, 156);
+}
+.item-4 {
+    color: rgb(248, 4, 73);
+}
+.item-5 {
+    color: rgb(142, 68, 173);
+}
